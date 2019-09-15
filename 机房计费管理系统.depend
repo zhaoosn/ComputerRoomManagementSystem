@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1567856664 source:h:\codeblock\cb file\机房计费管理系统\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	"Student.h"
+	"StuData.h"
+	"Computer.h"
+	"CompData.h"
+
+1567934230 source:h:\codeblock\cb file\机房计费管理系统\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1567855905 h:\codeblock\cb file\机房计费管理系统\include\student.h
+	"time.h"
+
+1567850779 source:h:\codeblock\cb file\机房计费管理系统\src\studata.cpp
+	"StuData.h"
+	<iostream>
+	"Student.h"
+	<string.h>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
+1567850790 h:\codeblock\cb file\机房计费管理系统\include\studata.h
+	"Student.h"
+
+1567854324 source:h:\codeblock\cb file\机房计费管理系统\src\computer.cpp
+	"Computer.h"
+
+1567328142 h:\codeblock\cb file\机房计费管理系统\include\computer.h
+
+1567857531 source:h:\codeblock\cb file\机房计费管理系统\src\compdata.cpp
+	"CompData.h"
+	"Computer.h"
+	"Student.h"
+	<fstream>
+	<iostream>
+	<stdio.h>
+
+1567855201 h:\codeblock\cb file\机房计费管理系统\include\compdata.h
+	"Computer.h"
+
+1567947811 source:h:\codeblock\cb file\机房计费管理系统1.0\main.cpp
+	<iostream>
+	<string.h>
+	<windows.h>
+	"Student.h"
+	"StuData.h"
+	"Computer.h"
+	"CompData.h"
+
+1567855905 h:\codeblock\cb file\机房计费管理系统1.0\include\student.h
+	"time.h"
+
+1567951943 h:\codeblock\cb file\机房计费管理系统1.0\include\studata.h
+	"Student.h"
+
+1567328142 h:\codeblock\cb file\机房计费管理系统1.0\include\computer.h
+
+1567951900 h:\codeblock\cb file\机房计费管理系统1.0\include\compdata.h
+	"Computer.h"
+
+1567854324 source:h:\codeblock\cb file\机房计费管理系统1.0\src\computer.cpp
+	"Computer.h"
+
+1567951900 source:h:\codeblock\cb file\机房计费管理系统1.0\src\studata.cpp
+	"StuData.h"
+	<iostream>
+	"Student.h"
+	<string.h>
+	<fstream>
+	<windows.h>
+	<conio.h>
+
+1567934230 source:h:\codeblock\cb file\机房计费管理系统1.0\src\student.cpp
+	"Student.h"
+	<iostream>
+	<string.h>
+	<time.h>
+	<windows.h>
+
+1567951900 source:h:\codeblock\cb file\机房计费管理系统1.0\src\compdata.cpp
+	"CompData.h"
+	"Computer.h"
+	"Student.h"
+	<fstream>
+	<iostream>
+	<stdio.h>
+
